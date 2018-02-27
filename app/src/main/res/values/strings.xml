@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memozzi</string>
+    <string name="sign_in">이미 아이디가 있다면? <u><i>로그인 하러가기</i></u></string>
+    <string name="sign_up">아이디가 없다면? <u><i>회원가입 하러가기</i></u></string>
+</resources>
