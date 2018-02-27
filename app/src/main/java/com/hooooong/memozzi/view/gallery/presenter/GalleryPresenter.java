@@ -1,11 +1,11 @@
-package com.hooooong.memozzi.view.Gallery.presenter;
+package com.hooooong.memozzi.view.gallery.presenter;
 
 import android.content.Context;
 
 import com.hooooong.memozzi.data.photo.Photo;
 import com.hooooong.memozzi.data.photo.source.PhotoRepository;
 import com.hooooong.memozzi.data.photo.source.PhotoSource;
-import com.hooooong.memozzi.view.Gallery.contract.GalleryContract;
+import com.hooooong.memozzi.view.gallery.contract.GalleryContract;
 
 import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.EBean;

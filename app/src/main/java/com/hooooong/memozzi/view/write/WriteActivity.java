@@ -19,7 +19,7 @@ import com.hooooong.memozzi.data.Const;
 import com.hooooong.memozzi.data.article.Article;
 import com.hooooong.memozzi.util.DateUtil;
 import com.hooooong.memozzi.util.DialogUtil;
-import com.hooooong.memozzi.view.Gallery.GalleryActivity_;
+import com.hooooong.memozzi.view.gallery.GalleryActivity_;
 import com.hooooong.memozzi.view.write.adapter.ArticleCategoryAdapter;
 import com.hooooong.memozzi.view.write.contract.WriteContract;
 import com.hooooong.memozzi.view.write.presenter.WritePresenter;

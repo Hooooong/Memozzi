@@ -23,7 +23,7 @@
         <activity android:name=".view.main.MainActivity_" />
         <activity android:name=".view.detail.DetailActivity_" />
         <activity android:name=".view.write.WriteActivity_" />
-        <activity android:name=".view.Gallery.GalleryActivity_"/>
+        <activity android:name=".view.gallery.GalleryActivity_"/>
     </application>
 
 </manifest>
